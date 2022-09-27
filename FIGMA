@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="vi ewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <title>Edie HomePage</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet"> 
+    
+
+
+  </head>
+
+  <body>
+    <a class="Edie"><strong>Edie</strong></a>
+
+    <a class="unhappy">Unhappy with your website?</a>
+
+    <a class="we-create">We create beautiful
+                        and fast web services</a>
+
+    <img src="./images/heroImage.jpg" alt="hombres hablando en una reunion de trabajo" class="coworking">
+
+    <a class="story-emotion">Story, emotion
+                             and purpose</a>
+    </a><br>
+
+    <!-- <a class="purpose">and purpose</a>
+    </a> -->
+
+    <a class="we-help">
+            We help transform your ideas into real world applications that will outperform 
+            your toughest competition and help you achieve your strategic goals in short period of time.
+    </a>
+
+    <a class="want-us">Want us to contact you?</a>
+
+    <a class="form"></a>
+
+    <a class="email">Email</a>
+
+    <a class="blue-rec"></a>
+
+    <a class="join">Join</a>
+
+    <a class="we-offer">We offer high 
+                        demand services</a>
+    
+    <img src="./images/edit.svg" alt="cuadrado con fondo azul" class="blue-square">
+
+    <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" class="blue-pen"><path d="m31.917 13.75-5.125-5.208 1.791-1.792q.625-.625 1.542-.625t1.542.625l2.125 2.167q.625.625.604 1.5-.021.875-.688 1.541Zm-.959.917L11.208 34.5H6.042v-5.167L25.833 9.542Z"/></svg>
+
+    <a class="ui-design">UI/UX Design</a>
+
+    <a class="ui-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.</a>
+
+    <a class="gray-rectangle"></a>
+    
+    <a class="get-started">Get started</a>
+
+    <a class="white-rectangle"></a>
+
+    <a class="green-square"></a>
+
+    <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" class="white-arrow"><path d="M33.25 35.1q-.55.5-1.225.475-.675-.025-1.175-.525t-.5-1.225q0-.725.5-1.225l8.7-8.7-8.65-8.65q-.5-.5-.475-1.2.025-.7.525-1.25.5-.5 1.225-.5.725 0 1.225.5l9.85 9.9q.5.5.5 1.2t-.5 1.2Zm-18.6-.15-9.9-9.85q-.5-.5-.5-1.2t.5-1.2l10-10q.55-.5 1.25-.5t1.2.5q.5.5.5 1.225 0 .725-.5 1.225L8.45 23.9l8.65 8.65q.5.5.525 1.175.025.675-.525 1.225-.5.5-1.2.5t-1.25-.5Z"/></svg>
+
+    <a class="front-end">Front End</a>
+
+    <a class="front-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.</a>
+
+    <a class="get-started-green"></a>
+
+    <a class="get-started-green-text">Get started</a>
+
+    <a class="red-square"></a>
+
+    <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" class="red-dot-line"><path d="M7.7 40q-1.55 0-2.625-1.075T4 36.3q0-1.55 1.075-2.625T7.7 32.6h32.6q1.55 0 2.625 1.075T44 36.3q0 1.55-1.075 2.625T40.3 40ZM9 38.1h3.6v-3.6H9ZM7.7 15.4q-1.55 0-2.625-1.075T4 11.7q0-1.55 1.075-2.625T7.7 8h32.6q1.55 0 2.625 1.075T44 11.7q0 1.55-1.075 2.625T40.3 15.4ZM9 13.5h3.6V9.9H9ZM7.7 27.7q-1.55 0-2.625-1.075T4 24q0-1.55 1.075-2.625T7.7 20.3h32.6q1.55 0 2.625 1.075T44 24q0 1.55-1.075 2.625T40.3 27.7ZM9 25.8h3.6v-3.6H9Z"/></svg>
+
+    <a class="back-end">Back End</a>
+
+    <a class="back-end-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.</a>
+
+    <a class="last-get-started"></a>
+
+    <a class="last-get-started-text">Get started</a>
+
+    <a class="good-design">Good design means good business</a>
+
+    <a class="pink-square"></a>
+    
+    <a class="smart"
+
+    <a class="full-stack">Full stack application</a>
+
+    <a class="smart-home-dashboard">Smart home dashboard</a>
+
+    <!-- <a class="business-cards"></a> -->
+
+    <img src="./images/onboard.png" alt="tarjetas de presentacion de diversos proyectos" class="project">
+
+    <a class="ux-design-text">UX/UI design</a>
+
+    <a class="onboard-app">Onboard application</a>
+
+    <img src="./images/booking.png" alt="agenda de diversos proyectos" class="booking"></a>
+
+    <a class="mobile-app">Mobile application</a>
+
+    <a class="booking-system">Booking system</a>
+
+    <a class="yellow-square"></a>
+
+    <a class="juice"></a>
+
+    <a class="front-end-app">Front End application</a>
+
+    <a class="juice-product">Juice product homepage</a>
+
+    <a class="see-more">see more</a>
+
+    <a class="meet">Meet the team</a>
+
+    <a class="we-are">We are chilled and a laidback team</a>
+
+    <a class="description">In our team everyone is comitted to achieve our goals</a>
+
+    <a class="man1"></a>
+
+    <a class="man2"></a>
+
+    <a class="woman"></a>
+
+    <a class="quote">“Fast and outstanding results. Edie understands their customer’s needs. They have a young and talented team.”</a>
+
+    <a class="last-man"></a>
+
+    <a class="carlos">Carlos Tran</a>
+
+    <a class="decorate">The Decorate Gatsby</a>    
+  </body>
+</html>
